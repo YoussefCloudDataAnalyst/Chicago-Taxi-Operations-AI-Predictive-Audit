@@ -53,12 +53,21 @@ Demand Volatility: Peak demand occurs between 6 PM and 9 PM, but revenue efficie
 
 Model Trust: By providing a "Model Truth Table," we acknowledge "misses," showing that the AI remains conservative in low-confidence scenarios to maintain high precision.
 
--Dashboard Preview
+## 📊 Executive Dashboard Preview
 
-Operations & Demand: Peak hours and Revenue Units.
+> [!TIP]
+    **View the Live Interactive Report:** [(https://datastudio.google.com/reporting/1f0f0442-bc21-4c0c-ac28-414d0f1da901) 
 
-Market Intelligence: Taxi Company Market Share and Geospatial Density.
+### Section 1: Operations & Market Analysis
+*Historical trends and competitive landscape.*
 
-Model Performance: Precision/Accuracy Scorecards and Feature Weights.
+![Operations Analysis](page1.png)
+![Geospatial Demand](page2.png)
 
-Field Validation: Predictive Reliability Heatmap and Truth Audit Table.
+---
+
+### Section 2: AI Predictive Audit
+*Model explainability and reliability validation.*
+
+![Model Performance](page3.png)
+![Truth Audit & Reliability](page4.png)
