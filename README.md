@@ -56,7 +56,9 @@ Model Trust: By providing a "Model Truth Table," we acknowledge "misses," showin
 ## 📊 Executive Dashboard Preview
 
 > [!TIP]
-    **View the Live Interactive Report:** [(https://datastudio.google.com/reporting/1f0f0442-bc21-4c0c-ac28-414d0f1da901) 
+    **View the Live Interactive Report:** [(https://datastudio.google.com/reporting/1f0f0442-bc21-4c0c-ac28-414d0f1da901)
+
+> note : "The live report is connected via BigQuery connector to optimized tables generated through the SQL engineering scripts provided in this repository."
 
 ### Section 1: Operations & Market Analysis
 *Historical trends and competitive landscape.*
